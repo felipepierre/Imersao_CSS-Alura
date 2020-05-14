@@ -6,12 +6,12 @@
 }
 
 a{
-    color: teal;
-    text-decoration:none;
-  }
+  color: teal;
+  text-decoration:none;
+}
 
 a:hover{
-text-decoration:underline;
+  text-decoration:underline;
 }
 
 header{
@@ -22,10 +22,10 @@ header{
 }
 
 body {
-    background-image:url(../img/fundo.jpg);
-    background-size: auto 100vh;
-    font-family: Verdana;
-    height: 100vh;
+  background-image:url(../img/fundo.jpg);
+  background-size: auto 100vh;
+  font-family: Verdana;
+  height: 100vh;
 }
 
 /* Breakpoint - o tamanho da fonte muda a partir de tela de 400 px */
@@ -40,10 +40,10 @@ width: 180px;
 }
 
 .menu{
-    background-color: white;
-    position: fixed;
-    width: 100vw;
-    top:0;
+  background-color: white;
+  position: fixed;
+  width: 100vw;
+  top:0;
 }
 
 .menu a{
